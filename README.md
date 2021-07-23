@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satrio Rahman Wicaksono</h1>
-<h3 align="center">High interests in Machine Learning, User Experience Design and Web Development.</h3>
+<h3 align="center">Follow me :D.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriowr&label=Profile%20views&color=0e75b6&style=flat" alt="satriowr" /> </p>
 
